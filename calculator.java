@@ -5,7 +5,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class Calucalator implements ActionListener {
+public class calculator implements ActionListener {
 
     JFrame frame;
     JTextField textfield;
